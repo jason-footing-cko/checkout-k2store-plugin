@@ -1,0 +1,4 @@
+[submodule "plg_k2store_payment_checkoutapipayment/checkoutapipayment/CheckoutApi"]
+	path = plg_k2store_payment_checkoutapipayment/checkoutapipayment/CheckoutApi
+	url = https://github.com/CKOTech/checkout-php-library.git
+	branch = CheckoutApi
